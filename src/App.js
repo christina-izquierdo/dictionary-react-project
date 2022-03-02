@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,6 +5,9 @@ function App() {
     <div className="App">
       <header className="App-header">
       </header>
+      <footer>
+      <a href='https://www.freepik.com/vectors/background'>Background vector created by rawpixel.com - www.freepik.com</a>
+      </footer>
     </div>
   );
 }
