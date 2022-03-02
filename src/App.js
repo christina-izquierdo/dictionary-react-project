@@ -1,6 +1,7 @@
 import './App.css';
 import Dictionary from "./Dictionary.js";
 
+
 function App() {
   return (
     <div className="App">
@@ -9,7 +10,7 @@ function App() {
         </header>
         <main>
           <Dictionary />
-        </main>
+         </main>
         <footer className="App-footer">
           <small>
             <a href='https://www.freepik.com/vectors/background'>Background vector created by rawpixel.com - www.freepik.com</a>
