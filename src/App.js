@@ -13,7 +13,9 @@ function App() {
          </main>
         <footer className="App-footer">
           <small>
-            <a href='https://www.freepik.com/vectors/background'>Background vector created by rawpixel.com - www.freepik.com</a>
+            This project was coded by Christina Izquierdo and is open-sourced on <a href="https://github.com/christina-izquierdo/dictionary-react-project">Github</a>.
+            <br/>
+            Background vector created by <a href='https://www.freepik.com/vectors/background'> rawpixel.com - www.freepik.com</a>
           </small>
         </footer>
       </div>

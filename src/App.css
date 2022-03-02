@@ -1,9 +1,15 @@
 body{
   background: url('vwbg.jpg') no-repeat center fixed;     
   background-size: cover;
+  display: block;
+  margin: 0 auto;
+  max-width: 700px;
   
 }
 .App-footer{
   text-align:center;
   margin: 30px 0px;
+}
+header{
+  margin: 30px 0;
 }
