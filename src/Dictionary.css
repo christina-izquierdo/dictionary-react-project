@@ -2,6 +2,26 @@
     text-align: center;
     margin: 30px;
     border-radius: 10px;
-    background-color: #E2A3D8;
-    color: #140C46;
+    color: #c4beeb;
+}
+.Dictionary section{
+    padding: 15px;
+    border-radius: 10px;
+    margin: 30px 0px;
+    box-shadow: 0 0 .2rem #fff,
+  0 0 .1rem #fff,
+  0 0 1rem #bc13fe,
+  0 0 0.8rem #bc13fe,
+  0 0 1rem #bc13fe,
+  inset 0 0 1rem #bc13fe;
+  background-color: #140C46;
+}
+.Dictionary input{
+    width: 100%;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+.Dictionary .hint{
+    font-size:15px;
+    font-family: DotGothic16;
 }

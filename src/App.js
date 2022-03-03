@@ -1,5 +1,7 @@
 import './App.css';
+import icon from "./icon.png"
 import Dictionary from "./Dictionary.js";
+
 
 
 function App() {
@@ -7,6 +9,11 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
+          <h1>
+            <img src={icon} alt="retro computer" className="" id="icon"/>
+            Dictionary
+          </h1>
+          
         </header>
         <main>
           <Dictionary />
